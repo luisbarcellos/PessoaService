@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaService.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaServiceApp/PessoaServiceApp.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaServiceApp/PessoaServiceApp.iml" group="PessoaServiceApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaServiceApp/PessoaServiceApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaServiceApp/PessoaServiceApp_main.iml" group="PessoaServiceApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaServiceApp/PessoaServiceApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaServiceApp/PessoaServiceApp_test.iml" group="PessoaServiceApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaServiceController/PessoaServiceController.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaServiceController/PessoaServiceController.iml" group="PessoaServiceController" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaServiceController/PessoaServiceController_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaServiceController/PessoaServiceController_main.iml" group="PessoaServiceController" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaServiceController/PessoaServiceController_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaServiceController/PessoaServiceController_test.iml" group="PessoaServiceController" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaServiceImpl/PessoaServiceImpl.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaServiceImpl/PessoaServiceImpl.iml" group="PessoaServiceImpl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaServiceImpl/PessoaServiceImpl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaServiceImpl/PessoaServiceImpl_main.iml" group="PessoaServiceImpl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaServiceImpl/PessoaServiceImpl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaServiceImpl/PessoaServiceImpl_test.iml" group="PessoaServiceImpl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaService_main.iml" group="PessoaService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PessoaService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PessoaService_test.iml" group="PessoaService" />
+    </modules>
+  </component>
+</project>

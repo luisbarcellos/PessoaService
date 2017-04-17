@@ -1,0 +1,30 @@
+repositories {
+    mavenCentral()
+}
+
+allprojects {
+    apply plugin: 'java'
+    apply plugin: 'idea'
+
+    ext {
+        springBootVersion = '1.4.1.RELEASE'
+    }
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    dependencies {
+        compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: springBootVersion
+        compile group: 'org.springframework.boot', name: 'spring-boot-starter-actuator', version: springBootVersion
+        compile group: 'org.springframework.boot', name: 'spring-boot-starter-jersey', version: springBootVersion
+        compile group: 'org.springframework.boot', name: 'spring-boot-starter-jdbc', version: springBootVersion
+        compile group: 'org.springframework.boot', name: 'spring-boot-starter-jetty', version: springBootVersion
+        testCompile group: 'org.springframework.boot', name: 'spring-boot-starter-test', version: springBootVersion
+        compile group: 'io.swagger', name: 'swagger-jersey2-jaxrs', version: '1.5.10'
+        compile group: 'org.projectlombok', name: 'lombok', version: '1.16.10'
+    }
+
+    configurations {
+        compile.exclude module: "spring-boot-starter-tomcat"
+    }
+}
